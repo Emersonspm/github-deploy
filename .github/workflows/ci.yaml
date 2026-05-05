@@ -23,6 +23,6 @@ jobs:
           context: .
           push: true
           tags: |
-            birazn/applinda:v2.2
-            birazn/applinda:latest
+            emersondocker01/appteste:v2.2
+            emersondocker01/appteste:latest
             
